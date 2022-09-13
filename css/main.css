@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.dark__mode {
+    background-color: black;
+    color: #fff;
+}
+
+.site__mode {
+    padding: 7px;
+    margin-top: 5px;
+    margin-left: 1260px;
+    background-color: #00d4ff;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+}
+
+
+.box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 7px black;
+    margin: 120px auto;
+    padding: 20px 420px;    
+}
+
+.site__delete {
+    margin-top: 5px;
+}
+
+.input {
+    margin-left: 126px;
+}
